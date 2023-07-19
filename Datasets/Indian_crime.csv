@@ -1,4 +1,4 @@
-Area_Name,Year,Rape_Cases,Murder_Cases,Auto_Theft,Theft_Cases,Total_Cases,LAT,LON
+,Area_Name,Year,Rape_Cases,Murder_Cases,Auto_Theft,Theft_Cases,Total_Cases,LAT,LON
 0,Andaman & Nicobar Islands,2001,3,13,4,143,163,11.66702557,92.73598262
 1,Andaman & Nicobar Islands,2002,2,17,2,110,131,11.66702557,92.73598262
 2,Andaman & Nicobar Islands,2003,2,21,5,128,156,11.66702557,92.73598262
